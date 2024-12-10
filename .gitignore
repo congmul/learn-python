@@ -3,3 +3,6 @@ DS_Store
 nottingham-logo.png
 nottingham-logo2.png
 .venv
+
+.env
+constants.py
